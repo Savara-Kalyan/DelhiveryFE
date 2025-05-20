@@ -1,0 +1,5 @@
+outs:
+- md5: 626a29637ea3c556bd0c595365ade508
+  size: 1051321
+  hash: md5
+  path: delhivery.csv
